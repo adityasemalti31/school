@@ -888,6 +888,8 @@ export default function Home() {
               <MapPin size={21} />
             </div>
             <div>
+
+                
               <p className="text-xs font-bold text-[#345345]">Visit our campus</p>
               <p className="mt-1 text-xs text-[#7A8880]">School address to be updated</p>
             </div>
